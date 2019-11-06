@@ -1,4 +1,4 @@
-# Series info
+# Series info App
 
 ## Description
 ### This app will fetch data from a tv series api.
